@@ -1,4 +1,4 @@
-# train-scheduler
+# Train-Scheduler
 this is my take on an interactive train scheduler
 
 ## Here how it works
